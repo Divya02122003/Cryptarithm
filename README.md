@@ -17,3 +17,5 @@ The design operates with a clock signal of 100 MHz, adjustable based on user req
 FPGA and ASIC results set benchmarks for future research, enabling further optimization and eventual tape-out of the prototype.
 
 ![Matrix Addition](https://github.com/user-attachments/assets/d2144f7b-7760-472d-9a36-ec31418aac77)
+
+
