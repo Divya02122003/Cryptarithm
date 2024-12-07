@@ -18,4 +18,4 @@ FPGA and ASIC results set benchmarks for future research, enabling further optim
 
 ![Matrix Addition](https://github.com/user-attachments/assets/d2144f7b-7760-472d-9a36-ec31418aac77)
 
-
+![Right Shift](https://github.com/user-attachments/assets/2e30a080-4146-43d3-b4e5-4fe257a28c16)
