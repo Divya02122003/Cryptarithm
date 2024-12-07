@@ -15,3 +15,5 @@ Designed and synthesized for ASIC implementation using SAED 32nm standard cell l
 The design operates with a clock signal of 100 MHz, adjustable based on user requirements. Achieved total power consumption of <5mW, significantly lower than a typical AND gate (7408) DIP IC (~300mW). Observed area of <6500 µm² and CPD of <3ns.
 
 FPGA and ASIC results set benchmarks for future research, enabling further optimization and eventual tape-out of the prototype.
+
+![Matrix Addition](https://github.com/user-attachments/assets/d2144f7b-7760-472d-9a36-ec31418aac77)
